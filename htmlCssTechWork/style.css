@@ -1,0 +1,19 @@
+.red-paragraph{
+    color: red;
+}
+
+#coupleBombay{
+    max-width: 400px;
+}
+
+ul{
+    padding: 0;
+    display: flex;
+}
+
+li{
+    /*display:inline-block;
+    width:25px; */
+    padding: 20px;
+    border: 1px solid #777;
+}
